@@ -26,7 +26,7 @@ In this project, our team managed to create a chat bot which can respond to the 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-Please find our video via the url below:
+Because we can't submit file that larger than 100MB to github, please find our video via the url below:
 
 https://drive.google.com/drive/folders/1unREmoroQvtY3z1iJhYftuArZx-ug1PO?usp=share_link
 ---
